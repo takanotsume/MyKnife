@@ -1,0 +1,5 @@
+.chef
+.vagrant
+.idea
+/cookbooks/
+Berksfile.lock
