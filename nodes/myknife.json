@@ -1,5 +1,6 @@
 {
     "run_list": [
+        "recipe[locale]",
         "recipe[apt]",
         "recipe[git]",
         "recipe[packages]"
