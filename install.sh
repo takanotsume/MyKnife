@@ -10,6 +10,7 @@ sudo dpkg -i /tmp/vagrant_1.4.3_x86_64.deb
 
 sudo mkdir /media/iso
 sudo mount -o loop /tmp/VBoxGuestAdditions_4.3.8.iso /media/iso
+sudo /media/iso/VBoxLinuxAdditions.run
 
 sudo apt-get install vagrant ruby ruby-dev gem chef
 
