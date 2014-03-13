@@ -3,3 +3,4 @@
 .idea
 /cookbooks/
 Berksfile.lock
+Gemfile.lock
