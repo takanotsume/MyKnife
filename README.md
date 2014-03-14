@@ -6,6 +6,7 @@ Demo of knife, chef, berrshelf using vargant generated VM ...
 Prerequesites
 ===
 
+Read https://www.digitalocean.com/community/articles/initial-server-setup-with-ubuntu-12-04
 
 Demo
 ===
@@ -25,3 +26,4 @@ Useful commands
 
 ### For testing remove local key
     * ssh-keygen -f "/home/msim/.ssh/known_hosts" -R myknife
+
