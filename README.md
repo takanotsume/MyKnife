@@ -8,6 +8,8 @@ Prerequesites
 
 Read https://www.digitalocean.com/community/articles/initial-server-setup-with-ubuntu-12-04
 
+http://matschaffer.github.io/knife-solo/
+
 Demo
 ===
 
